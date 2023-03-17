@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-/** the function  of size print
+/**
  * main - Entry point
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
