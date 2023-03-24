@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    ahmed_fadili();
+    jack_bauer();
     return (0);
 }
